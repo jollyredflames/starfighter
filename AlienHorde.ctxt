@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=AlienHorde(int)
+comment1.params=al
+comment1.target=void\ add(Alien)
+comment2.params=window
+comment2.target=void\ drawEmAll(java.awt.Graphics)
+comment3.params=
+comment3.target=void\ moveEmAll()
+comment4.params=shots
+comment4.target=void\ removeDeadOnes(java.util.List)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

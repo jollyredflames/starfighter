@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=OuterSpace()
+comment1.params=window
+comment1.target=void\ update(java.awt.Graphics)
+comment2.params=window\ x
+comment2.target=void\ paint(java.awt.Graphics,\ int)
+comment3.params=window
+comment3.target=void\ paint(java.awt.Graphics)
+comment4.params=
+comment4.target=int\ randomX()
+comment5.params=
+comment5.target=int\ randomSpeed()
+comment6.params=key
+comment6.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment7.params=e
+comment7.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment8.params=e
+comment8.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment9.params=
+comment9.target=void\ run()
+numComments=10
